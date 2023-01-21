@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "demoadffrepo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
