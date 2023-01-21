@@ -1,0 +1,9 @@
+{
+	"name": "demoadffrepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00adf77e-6b5c-4bbb-a31b-28ebdf72f379",
+		"tenantId": "b87cc3b5-b8ed-4c21-9c0e-d384868a6852"
+	}
+}
